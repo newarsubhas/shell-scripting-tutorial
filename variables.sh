@@ -1,10 +1,7 @@
 #!/bin/bash
 #Purpose: What is variable.? How is help us in writing shell scripts
 #Version:1.0
-#Created Date: Sat May 5 20:25:21 IST 2018
-#Modified Date:
-#website: https://arkit.co.in
-#Author: Ankam Ravi Kumar
+
 # START #
 A=10
 Ba=23

@@ -1,9 +1,6 @@
 #!/bin/bash
 #Purpose: Find biggest Number among 4 digits
-#Version:1.0
-#Created Date: Wed May 16 18:45:58 IST 2018
-#Modified Date:
-#Author: Ankam Ravi Kumar
+
 # START #
 echo -e "Please Enter a Value: \c"
 read -r a

@@ -1,9 +1,6 @@
 #!/bin/bash
 #Purpose: If statement example
-#Version:1.0
-#Created Date: Sat May 12 23:41:50 IST 2018
-#Modified Date:
-#Author: Ankam Ravi Kumar
+
 # START #
 echo -e "Please provide Value below ten: \c"
 read -r value

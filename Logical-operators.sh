@@ -1,9 +1,7 @@
 #!/bin/bash
 #Purpose: Logical Operators/Boolean Operators. Student Marks Validation.
 #Version:1.0
-#Created Date: Sat May 12 21:21:03 IST 2018
-#Modified Date:
-#Author: Ankam Ravi Kumar
+
 # START #
 echo -e "Enter Your Maths Subject Marks: \c"
 read -r m

@@ -1,10 +1,7 @@
 #!/bin/bash
 #Purpose: Example for Case Statement
 #Version:1.0
-#WebSite: https://arkit.co.in
-#Created Date: Mon May 21 20:37:59 IST 2018
-#Modified Date:
-#Author: Ankam Ravi Kumar
+
 # START #
 echo -c "Enter a number: \c"
 read -r a

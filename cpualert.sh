@@ -1,10 +1,7 @@
 #!/bin/bash
 #Purpose: Real time CPU utilization Monitoring
 #Version:1.0
-#Created Date: Tue Jun 5 21:33:38 IST 2018
-#Modified Date:
-#WebSite: https://arkit.co.in
-#Author: Ankam Ravi Kumar
+
 # START #
 PATHS="/"
 HOSTNAME=$(hostname)
