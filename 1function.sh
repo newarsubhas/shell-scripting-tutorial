@@ -5,7 +5,7 @@
 # START #
 function takebackup (){
         if [ -f $1 ]; then
-        BACKUP="/home/aravi/$(basename ${1}).$(date +%F).$$"
+        BACKUP="/Users/learnix/devops/shell-scripting-tutorial/$(basename ${1}).$(date +%F).$$"
         echo "Backing up $1 to ${BACKUP}"
         cp $1 $BACKUP
         fi
